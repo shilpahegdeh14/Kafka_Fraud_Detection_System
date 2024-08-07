@@ -52,4 +52,3 @@ In the real world, detecting fraud is a complex problem, and it involves various
 In this project, I will keep the metric simple: it is not legit to transfer more than $900.00 at a time. 
 As a result, any transaction whose amount is greater than $900 can be considered fraud. 
 For simplifiation purposes, all the transactions are considered to be happening in USD.
-![image](https://github.com/user-attachments/assets/2488ef64-6110-4df5-8a6f-27fc4859d7b2)
